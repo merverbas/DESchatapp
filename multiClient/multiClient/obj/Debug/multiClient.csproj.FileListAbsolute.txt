@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\bin\Debug\multiClient.exe.config
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\bin\Debug\multiClient.exe
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\bin\Debug\multiClient.pdb
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.csproj.CoreCompileInputs.cache
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.exe
+c:\users\user\documents\visual studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\multiClient\multiClient\obj\Debug\multiClient.csprojResolveAssemblyReference.cache
